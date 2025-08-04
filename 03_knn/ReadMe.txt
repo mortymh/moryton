@@ -54,7 +54,7 @@ In this project, it is assumed that the dataset has already been downloaded as a
 
 ---
 
-## 🇮🇷 معرفی پروژه (به فارسی)
+##  معرفی پروژه (به فارسی)
 
 ---
 
