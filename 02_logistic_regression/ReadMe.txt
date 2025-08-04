@@ -53,7 +53,7 @@ This project uses the **Titanic dataset**, which is publicly available at:
 
 ---
 
-## 🇮🇷 معرفی پروژه (به فارسی)
+##  معرفی پروژه (به فارسی)
 
 ---
 
