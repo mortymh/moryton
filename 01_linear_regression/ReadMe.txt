@@ -60,7 +60,7 @@ This project uses the **California Housing Dataset**, which you can download fro
 
 ---
 
-## 🇮🇷 معرفی پروژه (به فارسی)
+##  معرفی پروژه (به فارسی)
 
 ---
 
